@@ -80,6 +80,8 @@ The intercept is 44,550,000, and r-squared .721. Here can see the price effects 
 
 This graph represents the accuracy of the models ability to predict final price.
 
+![image.png](img/geographic_sectors.png)
+
 ![image.png](img/model_3_pred.png)
 
 ### Multicollinearity: Model 4
